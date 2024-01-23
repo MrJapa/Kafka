@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "no_adults": 2,
+    "no_children": 1,
+    "house_size_m2": 100,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 2,
+    "no_adults": 2,
+    "no_children": 0,
+    "house_size_m2": 99,
+    "no_electric_cars": 1
+  },
+  {
+    "id": 3,
+    "no_adults": 2,
+    "no_children": 0,
+    "house_size_m2": 106,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 4,
+    "no_adults": 2,
+    "no_children": 2,
+    "house_size_m2": 116,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 5,
+    "no_adults": 1,
+    "no_children": 7,
+    "house_size_m2": 184,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 6,
+    "no_adults": 1,
+    "no_children": 6,
+    "house_size_m2": 160,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 7,
+    "no_adults": 2,
+    "no_children": 1,
+    "house_size_m2": 94,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 8,
+    "no_adults": 1,
+    "no_children": 7,
+    "house_size_m2": 198,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 9,
+    "no_adults": 2,
+    "no_children": 6,
+    "house_size_m2": 186,
+    "no_electric_cars": 1
+  },
+  {
+    "id": 10,
+    "no_adults": 2,
+    "no_children": 0,
+    "house_size_m2": 99,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 11,
+    "no_adults": 2,
+    "no_children": 2,
+    "house_size_m2": 108,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 12,
+    "no_adults": 2,
+    "no_children": 6,
+    "house_size_m2": 185,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 13,
+    "no_adults": 2,
+    "no_children": 0,
+    "house_size_m2": 102,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 14,
+    "no_adults": 2,
+    "no_children": 5,
+    "house_size_m2": 176,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 15,
+    "no_adults": 2,
+    "no_children": 1,
+    "house_size_m2": 102,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 16,
+    "no_adults": 2,
+    "no_children": 3,
+    "house_size_m2": 122,
+    "no_electric_cars": 1
+  },
+  {
+    "id": 17,
+    "no_adults": 1,
+    "no_children": 4,
+    "house_size_m2": 143,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 18,
+    "no_adults": 2,
+    "no_children": 6,
+    "house_size_m2": 188,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 19,
+    "no_adults": 1,
+    "no_children": 5,
+    "house_size_m2": 141,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 20,
+    "no_adults": 1,
+    "no_children": 1,
+    "house_size_m2": 85,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 21,
+    "no_adults": 2,
+    "no_children": 0,
+    "house_size_m2": 111,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 22,
+    "no_adults": 2,
+    "no_children": 0,
+    "house_size_m2": 103,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 23,
+    "no_adults": 2,
+    "no_children": 3,
+    "house_size_m2": 132,
+    "no_electric_cars": 1
+  },
+  {
+    "id": 24,
+    "no_adults": 1,
+    "no_children": 1,
+    "house_size_m2": 73,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 25,
+    "no_adults": 1,
+    "no_children": 5,
+    "house_size_m2": 153,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 26,
+    "no_adults": 1,
+    "no_children": 5,
+    "house_size_m2": 166,
+    "no_electric_cars": 1
+  },
+  {
+    "id": 27,
+    "no_adults": 2,
+    "no_children": 1,
+    "house_size_m2": 110,
+    "no_electric_cars": 1
+  },
+  {
+    "id": 28,
+    "no_adults": 2,
+    "no_children": 5,
+    "house_size_m2": 166,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 29,
+    "no_adults": 1,
+    "no_children": 0,
+    "house_size_m2": 77,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 30,
+    "no_adults": 2,
+    "no_children": 1,
+    "house_size_m2": 88,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 31,
+    "no_adults": 1,
+    "no_children": 2,
+    "house_size_m2": 104,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 32,
+    "no_adults": 1,
+    "no_children": 5,
+    "house_size_m2": 146,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 33,
+    "no_adults": 2,
+    "no_children": 1,
+    "house_size_m2": 104,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 34,
+    "no_adults": 2,
+    "no_children": 3,
+    "house_size_m2": 121,
+    "no_electric_cars": 1
+  },
+  {
+    "id": 35,
+    "no_adults": 2,
+    "no_children": 0,
+    "house_size_m2": 84,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 36,
+    "no_adults": 1,
+    "no_children": 6,
+    "house_size_m2": 172,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 37,
+    "no_adults": 1,
+    "no_children": 0,
+    "house_size_m2": 93,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 38,
+    "no_adults": 2,
+    "no_children": 1,
+    "house_size_m2": 96,
+    "no_electric_cars": 1
+  },
+  {
+    "id": 39,
+    "no_adults": 1,
+    "no_children": 7,
+    "house_size_m2": 200,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 40,
+    "no_adults": 2,
+    "no_children": 3,
+    "house_size_m2": 127,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 41,
+    "no_adults": 2,
+    "no_children": 3,
+    "house_size_m2": 122,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 42,
+    "no_adults": 2,
+    "no_children": 1,
+    "house_size_m2": 111,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 43,
+    "no_adults": 1,
+    "no_children": 5,
+    "house_size_m2": 153,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 44,
+    "no_adults": 2,
+    "no_children": 5,
+    "house_size_m2": 177,
+    "no_electric_cars": 1
+  },
+  {
+    "id": 45,
+    "no_adults": 1,
+    "no_children": 5,
+    "house_size_m2": 155,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 46,
+    "no_adults": 1,
+    "no_children": 6,
+    "house_size_m2": 177,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 47,
+    "no_adults": 2,
+    "no_children": 2,
+    "house_size_m2": 104,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 48,
+    "no_adults": 1,
+    "no_children": 5,
+    "house_size_m2": 147,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 49,
+    "no_adults": 2,
+    "no_children": 2,
+    "house_size_m2": 116,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 50,
+    "no_adults": 2,
+    "no_children": 0,
+    "house_size_m2": 92,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 51,
+    "no_adults": 1,
+    "no_children": 3,
+    "house_size_m2": 134,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 52,
+    "no_adults": 1,
+    "no_children": 1,
+    "house_size_m2": 75,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 53,
+    "no_adults": 1,
+    "no_children": 0,
+    "house_size_m2": 98,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 54,
+    "no_adults": 2,
+    "no_children": 5,
+    "house_size_m2": 157,
+    "no_electric_cars": 1
+  },
+  {
+    "id": 55,
+    "no_adults": 1,
+    "no_children": 4,
+    "house_size_m2": 136,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 56,
+    "no_adults": 2,
+    "no_children": 0,
+    "house_size_m2": 93,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 57,
+    "no_adults": 2,
+    "no_children": 1,
+    "house_size_m2": 85,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 58,
+    "no_adults": 1,
+    "no_children": 0,
+    "house_size_m2": 92,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 59,
+    "no_adults": 1,
+    "no_children": 3,
+    "house_size_m2": 127,
+    "no_electric_cars": 1
+  },
+  {
+    "id": 60,
+    "no_adults": 2,
+    "no_children": 2,
+    "house_size_m2": 107,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 61,
+    "no_adults": 2,
+    "no_children": 4,
+    "house_size_m2": 165,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 62,
+    "no_adults": 1,
+    "no_children": 4,
+    "house_size_m2": 124,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 63,
+    "no_adults": 1,
+    "no_children": 2,
+    "house_size_m2": 91,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 64,
+    "no_adults": 2,
+    "no_children": 2,
+    "house_size_m2": 116,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 65,
+    "no_adults": 1,
+    "no_children": 0,
+    "house_size_m2": 99,
+    "no_electric_cars": 1
+  },
+  {
+    "id": 66,
+    "no_adults": 2,
+    "no_children": 3,
+    "house_size_m2": 120,
+    "no_electric_cars": 1
+  },
+  {
+    "id": 67,
+    "no_adults": 1,
+    "no_children": 0,
+    "house_size_m2": 78,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 68,
+    "no_adults": 2,
+    "no_children": 6,
+    "house_size_m2": 168,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 69,
+    "no_adults": 1,
+    "no_children": 2,
+    "house_size_m2": 107,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 70,
+    "no_adults": 1,
+    "no_children": 7,
+    "house_size_m2": 179,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 71,
+    "no_adults": 2,
+    "no_children": 2,
+    "house_size_m2": 107,
+    "no_electric_cars": 1
+  },
+  {
+    "id": 72,
+    "no_adults": 1,
+    "no_children": 0,
+    "house_size_m2": 85,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 73,
+    "no_adults": 1,
+    "no_children": 2,
+    "house_size_m2": 113,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 74,
+    "no_adults": 2,
+    "no_children": 4,
+    "house_size_m2": 162,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 75,
+    "no_adults": 2,
+    "no_children": 7,
+    "house_size_m2": 213,
+    "no_electric_cars": 1
+  },
+  {
+    "id": 76,
+    "no_adults": 1,
+    "no_children": 1,
+    "house_size_m2": 92,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 77,
+    "no_adults": 2,
+    "no_children": 5,
+    "house_size_m2": 171,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 78,
+    "no_adults": 2,
+    "no_children": 5,
+    "house_size_m2": 173,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 79,
+    "no_adults": 1,
+    "no_children": 3,
+    "house_size_m2": 116,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 80,
+    "no_adults": 2,
+    "no_children": 4,
+    "house_size_m2": 146,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 81,
+    "no_adults": 2,
+    "no_children": 5,
+    "house_size_m2": 169,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 82,
+    "no_adults": 2,
+    "no_children": 3,
+    "house_size_m2": 124,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 83,
+    "no_adults": 2,
+    "no_children": 4,
+    "house_size_m2": 151,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 84,
+    "no_adults": 1,
+    "no_children": 1,
+    "house_size_m2": 71,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 85,
+    "no_adults": 1,
+    "no_children": 3,
+    "house_size_m2": 111,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 86,
+    "no_adults": 2,
+    "no_children": 1,
+    "house_size_m2": 80,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 87,
+    "no_adults": 2,
+    "no_children": 1,
+    "house_size_m2": 82,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 88,
+    "no_adults": 2,
+    "no_children": 4,
+    "house_size_m2": 137,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 89,
+    "no_adults": 2,
+    "no_children": 2,
+    "house_size_m2": 104,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 90,
+    "no_adults": 2,
+    "no_children": 1,
+    "house_size_m2": 92,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 91,
+    "no_adults": 1,
+    "no_children": 0,
+    "house_size_m2": 88,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 92,
+    "no_adults": 2,
+    "no_children": 5,
+    "house_size_m2": 184,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 93,
+    "no_adults": 2,
+    "no_children": 0,
+    "house_size_m2": 102,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 94,
+    "no_adults": 1,
+    "no_children": 1,
+    "house_size_m2": 79,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 95,
+    "no_adults": 1,
+    "no_children": 3,
+    "house_size_m2": 133,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 96,
+    "no_adults": 2,
+    "no_children": 4,
+    "house_size_m2": 151,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 97,
+    "no_adults": 1,
+    "no_children": 2,
+    "house_size_m2": 112,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 98,
+    "no_adults": 1,
+    "no_children": 7,
+    "house_size_m2": 181,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 99,
+    "no_adults": 1,
+    "no_children": 4,
+    "house_size_m2": 137,
+    "no_electric_cars": 0
+  },
+  {
+    "id": 100,
+    "no_adults": 1,
+    "no_children": 3,
+    "house_size_m2": 125,
+    "no_electric_cars": 0
+  }
+]
